@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nmarszalekwenet.github.io/testing-site/sitemap.xml
